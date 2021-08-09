@@ -97,4 +97,15 @@ ul {
     outline-width: 0;
 }
 
+.search-lucky-btns {
+    align-items: flex-start;
+    background-color: #f8f9fa;
+    border-radius: 0.25rem;
+    border-style: none;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    margin: 0.2rem;
 
+}
